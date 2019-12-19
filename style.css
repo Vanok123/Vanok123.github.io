@@ -1,0 +1,172 @@
+* {
+	margin: 0;
+}
+
+.inf {
+	
+	font-size:30px;
+	font-family: 'Marck Script', cursive;
+	background-color:	#FFFACD;
+}
+
+
+footer {
+	font-size: 30px;
+	color: #ffffff;
+	font-family: 'Marck Script', cursive;
+	background-color:red;
+}
+
+table {
+	margin:5px;
+}
+
+body a {
+font-color:red;
+font-family: 'Oswald', sans-serif;
+}
+
+.btn2 {
+	font-family: 'Oswald', sans-serif;
+	border-radius: 50%;
+	font-size: 45px;
+	width: 100%;
+	background-color: #013220;
+    color: white;
+    padding: 0 75px 0 75px;
+    border: none;
+	 box-shadow: -4px 4px 25px -5px #000000;
+}
+
+ .dropbtn:hover {background-color: #3e8e41;
+ transition: 1s;}
+
+.dropbtn {
+		font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+	width: 100%;
+	background-color: #4CAF50;
+    color: white;
+    padding: 0 75px 0 75px;
+    border: none;
+	 box-shadow: 8px 12px 14px -12px #000000;
+}
+
+.dropdown1 {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-cont1 {
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	font-size:40px;
+	box-shadow: 8px 12px 14px -12px #000000;
+	transition: 1s;
+	opacity:0;
+}
+
+.dropdown-cont1 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-cont1 a:hover {background-color: #ddd;
+ transition: 1s;
+}
+
+
+.dropdown1:hover .dropdown-cont1 {display: block;
+ transition: 1s;
+ opacity:1;
+
+}
+
+.dropbtn:hover .dropbtn {background-color: #3e8e41;
+}
+
+.dropbtn1 {
+		font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+	width: 100%;
+	background-color: #4CAF50;
+    color: white;
+    padding: 0 75px 0 75px;
+    border: none;
+	box-shadow: -11px 12px 14px -12px #000000;
+}
+
+.dropdown2 {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-cont2 {
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	font-size:40px;
+	box-shadow: 8px 12px 14px -12px #000000;
+	transition: 1s;
+	opacity:0;
+}
+
+.dropdown-cont2 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+ .dropbtn1:hover {background-color: #3e8e41;
+ transition: 1s;}
+
+.dropdown-cont2 a:hover {background-color: #ddd;
+ transition: 1s;
+
+}
+
+
+.dropdown2:hover .dropdown-cont2 {display: block;
+ transition: 1s;
+ opacity:1;
+
+}
+
+.txt1 {
+	padding: 2px;
+	font-size:18px;
+	font-family: 'Lobster', cursive;
+}
+
+/*insha vkl pozhezhi*/
+.rekl {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+}
+
+.txt2 {
+	padding: 2px;
+	font-size:25px;
+	font-family: 'Lobster', cursive;
+}
+
+
+/*insha vkl tvarunnuztvo*/
+
+.rekl {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+}
+
+
+
